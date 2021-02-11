@@ -4,7 +4,7 @@ import time
 timer = 0
 long = 0
 free_time : bool = False
-TOKEN = '1542411934:AAF9DGT929qhbPqW_0DXHVBO3k0WVz9onSY'
+TOKEN = 'Тут токен'
 
 bot = telebot.TeleBot(TOKEN)
 
