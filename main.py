@@ -6,7 +6,7 @@ long = 0
 free_time: bool = False
 is_stop: bool = False
 is_pause = False
-TOKEN = '1542411934:AAF9DGT929qhbPqW_0DXHVBO3k0WVz9onSY'
+TOKEN = 'тут токен'
 
 bot = telebot.TeleBot(TOKEN)
 
