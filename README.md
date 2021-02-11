@@ -1,3 +1,3 @@
 # -PomodoroBot-
 
-![sreenshot](https://photos.google.com/search/_tra_/photo/AF1QipO_V1tAJb0xxT6lwYFOHjFRcTFCCbystz4h6PVk)
+![sreenshot](https://drive.google.com/file/d/1rZ7mONqBTIUYrs8Nfw3IqvBDa43VW77x/view?usp=sharing)
